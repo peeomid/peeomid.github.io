@@ -15,7 +15,7 @@ A few stuff that I can handle:
 - System architect
 - Backend API (`Django`, `Django Rest`)
 - DevOps
-
+- Chatbot
 
 
 ## Projects
@@ -39,3 +39,4 @@ Why want? 'cause I don't have enough resourse (time/money) for it, yet!
 
 - [Twitter](https://twitter.com/peeomid)
 - [Github](https://github.com/peeomid)
+- [Medium](https://medium.com/@peeomid)
