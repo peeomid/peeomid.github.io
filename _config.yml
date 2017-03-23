@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 
 # Setup
 title: peeomid - thoughts. Stuff.
+page_name: peeomid
 tagline: Thoughts. Stuff.
 # baseurl:      ""
 # paginate:     1
