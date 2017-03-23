@@ -15,7 +15,7 @@ A few stuff that I can handle:
 - System architect
 - Backend API (`Django`, `Django Rest`)
 - DevOps
-
+- Chatbot
 
 
 ## Projects
@@ -40,3 +40,4 @@ Drop me an email at lihavim [at] gmail.com
 
 - [Twitter](https://twitter.com/peeomid)
 - [Github](https://github.com/peeomid)
+- [Medium](https://medium.com/@peeomid)
