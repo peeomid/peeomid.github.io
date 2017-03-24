@@ -4,7 +4,7 @@ title: peeomid - thoughts. Stuff.
 
 ## Hi there!
 
-I am a random person with a wide range of interest:
+I'm just a random person with a wide range of interest:
 `Coding`, `Marketing`, `Business Process Improvement`, `Personal development`.
 
 Above all, Sahaja Yoga is my purpose, free and unique way to balance yourself!
