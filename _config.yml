@@ -1,23 +1,21 @@
-theme: jekyll-theme-cayman
-
-# Setup
+---
 title: peeomid - thoughts. Stuff.
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+theme: jekyll-theme-cayman
 page_name: peeomid
 tagline: Thoughts. Stuff.
-# baseurl:      ""
-# paginate:     1
-
-# About/contact
 author:
   name: peeomid
-  url:  https://peeomid.com
-
-# Gems
+  url: https://peeomid.com
 gems:
-  - jekyll-paginate
-
-#Others
-# markdown: kramdown
-
-description: [Thoughts. Stuff.]
+- jekyll-paginate
+description:
+- Thoughts. Stuff.
 google_analytics: UA-52164311-1
