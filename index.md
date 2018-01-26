@@ -1,38 +1,33 @@
 ---
-title: peeomid - thoughts. Stuff.
+title: Luan Nguyen - Development consultant
+layout: splash
 ---
 
 ## Hi there!
 
-I'm just a random person with a wide range of interest:
-`Coding`, `Marketing`, `Business Process Improvement`, `Personal development`.
+I'm Luan, a development consultant, based in Vietnam.
 
-Above all, Sahaja Yoga is my purpose, free and unique way to balance yourself!
-
-## Tech
-
-A few stuff that I can handle:
+A few stuff that I normally work on:
 - System architect
-- Backend API (`Django`, `Django Rest`)
-- DevOps
-- Chatbot
+- Backend development (`Django`, `Django Rest`)
+- API integration
 
+So if you're in situations like following, drop me an email.
+- Have a business idea, but not too sure where to start, how to design or development?
+- Want to build a mobile/web application, and need to build API for that quickly (what helps the application manage information at the back)
+- Integrate your system with other systems, say getting hotel information from Agoda, or adding payment in.
 
 ## Projects
-List of stuff that I worked on before, or what I'm working on right now/planning to touch soon:
+Some projects I worked on before:
 
-- [FiberX] **Backend API** (`Django`/`Django Rest`) - Beta
-- [thespoke] **Backend API** (`Django`/`Django Rest`) - Beta
-- [Getgoru mobile app](http://www.getgoru.com/): **Backend API** (`Django`/`Django Rest`), **Server architect**
+- [[Getgoru](http://www.getgoru.com/)]: (`Django`/`Django Rest`)
+This is a mobile app that allows users to browse hotels and restaurants, and do booking in that single app, without having to go to different apps. Developed its backend API, integrating it with Agoda for hotel information and booking.
+- [XiberX] **Backend API** (`Django`/`Django Rest`)
+This app manages properties and tenants. Bootstraped the project and developed the 1st phase of its backend API.
+- [[thespoke](http://thespoke.co)] **Backend API** (`Django`/`Django Rest`)
+This app allows searching for, and bookmarking movie and restaurant information. Developed its backend API and integration.
+- [[hiddenapp](http://hiddenapp.com)]
+Added Braintree integration for this existing project.
 
-### What I want to do
-- [Vietnamese] **Children portal** A portal for children related information in Vietnamese:
-	- Raising children info: Information relating to rasing children, for different age groups.
-	- Videos for children: all videos are being moderated, and classified for different age groups and purposed.
-	- Book reviews
 
 ## Contact
-
-- [Twitter](https://twitter.com/peeomid)
-- [Github](https://github.com/peeomid)
-- [Medium](https://medium.com/@peeomid)
