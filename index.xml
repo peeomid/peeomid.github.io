@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peeomid Profile</title>
+    <link>https://peeomid.com/index.xml</link>
+    <description>Recent content on Peeomid Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Osimify</copyright>
+    <lastBuildDate>Tue, 15 Nov 2016 13:00:25 +0530</lastBuildDate>
+    <atom:link href="https://peeomid.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get in touch</title>
+      <link>https://peeomid.com/contact/</link>
+      <pubDate>Tue, 15 Nov 2016 13:00:25 +0530</pubDate>
+      
+      <guid>https://peeomid.com/contact/</guid>
+      <description>&lt;p&gt;Not too sure on how to design an application for your business need?&lt;/p&gt;
+
+&lt;p&gt;Need some advice on using tech for business? Or better, want to develop Backend API (using Django or NodeJs), or a chat bot?&lt;/p&gt;
+
+&lt;p&gt;Or well, want to try out meditation?&lt;/p&gt;
+
+&lt;p&gt;Do let me know :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://peeomid.com/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://peeomid.com/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m a freelance developer, focusing on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;System Design&lt;/li&gt;
+&lt;li&gt;API Development (mainly using Django, partly NodeJs)&lt;/li&gt;
+&lt;li&gt;Chatbot Development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m spending half of my time for managing and developing a special children center (children with some difficulty) called &lt;a href=&#34;https://www.facebook.com/thamvantamlydanang&#34;&gt;Cadeaux&lt;/a&gt;. I love improving business processes, and always to try to make it work with people and tech.&lt;/p&gt;
+
+&lt;p&gt;I aslo instruct a meditation technique called Sahaja Yoga for free. It&amp;rsquo;s a simple, not time-consuming meditation technique :)&lt;/p&gt;
+
+&lt;p&gt;The remaining time I use to think about ideas to develop community, and I&amp;rsquo;m trying to start some small businesses as a test.&lt;/p&gt;
+
+&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor of Business (Business Information System)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pybotkit [IN PROGRESS]</title>
+      <link>https://peeomid.com/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://peeomid.com/portfolio/work1/</guid>
+      <description>&lt;p&gt;Simple framework for Facebook Messenger chat bot in Python.
+&lt;/p&gt;
+
+&lt;p&gt;An attempt to structure a simple &amp;ldquo;framework&amp;rdquo; (well, not exactly, just a simple structure) for Facebook Messenger chatbot.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve come across many tutorials on the net on how to develop Facebook Messenger chatbot in Python, but so far I haven&amp;rsquo;t seen any well structured one, yet. &lt;a href=&#34;https://www.botkit.ai/&#34;&gt;botkit&lt;/a&gt;&amp;rsquo;s code is way more readable to me.&lt;/p&gt;
+
+&lt;p&gt;So, just want to have a well-structured (or at least clearly structured) app for developing chatbot.
+&lt;a href=&#34;https://github.com/peeomid/pybotkit&#34;&gt;https://github.com/peeomid/pybotkit&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Annoying Todo [TODO]</title>
+      <link>https://peeomid.com/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://peeomid.com/portfolio/work2/</guid>
+      <description>&lt;p&gt;A todo that force me to get things done, not a todo to put things in then forget!
+&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve used so many todo apps, but so far none has really &amp;ldquo;force&amp;rdquo; me to get things done. My tendency is to put a lot of stuff in the list, but then either I forget to check the list, or the list grows too big, managing the list itself takes too much time!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
