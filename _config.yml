@@ -8,8 +8,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale: "en-US"
 include: ["_pages"]
 
-url: "http://127.0.0.1:4000"
-# url                      : "https://peeomid.com"
+url                      : "https://peeomid.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository: "peeomid/peeomid.github.io"
 
