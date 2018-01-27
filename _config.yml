@@ -63,6 +63,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - octopress-minify-html
   - jekyll-feed
   - jemoji
 
@@ -71,6 +72,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - octopress-minify-html
   - jekyll-feed
   - jemoji
 
