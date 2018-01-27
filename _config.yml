@@ -37,8 +37,8 @@ collections:
     output: true
     permalink: /:projects/:path/
 # theme: jekyll-theme-cayman
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes"
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 page_name: peeomid
 tagline: Thoughts. Stuff.
 author:
@@ -60,17 +60,33 @@ compress_html:
   ignore:
     envs: development  # disable compression in dev environment
 
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
 twitter:
   username: "peeomid"
 
 # Site Author
 author:
   name             : "Luan Nguyen"
-  bio              : "Someone"
+  bio              : "Backend Developer"
   github           : "peeomid"
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : luantn" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  twitter          :
+  twitter          : "peeomid"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 # Outputting
@@ -90,6 +106,7 @@ defaults:
       comments: true
       share: true
       related: true
+      author_profile: true
   # _pages
   - scope:
       path: ""
