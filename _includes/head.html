@@ -14,7 +14,13 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
+<!-- <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}"> -->
+<style type="text/css">
+    {% capture include_to_scssify %}
+      {% include minimal-mistakes.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
 
 <!--[if lte IE 9]>
   <style>
