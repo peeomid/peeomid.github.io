@@ -44,8 +44,6 @@ tagline: Thoughts. Stuff.
 author:
   name: peeomid
   url: https://peeomid.com
-gems:
-- jekyll-paginate
 description:
 - Thoughts. Stuff.
 analytics:
