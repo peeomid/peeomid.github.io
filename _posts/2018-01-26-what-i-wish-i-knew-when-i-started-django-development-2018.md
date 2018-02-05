@@ -38,7 +38,7 @@ Always use [virtualenv](https://virtualenv.pypa.io/en/stable/) to separate envir
 
 You can specify python version when you start a new environment:
 
-`virtual env -p python3`
+`virtualenv env -p python3`
 
 And make sure to check out [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) as well, since it helps manage different virtual environments with ease:
 
