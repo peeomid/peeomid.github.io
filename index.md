@@ -11,6 +11,7 @@ A few stuff that I normally work on:
 - System architect
 - Backend development (`Django`, `Django Rest`)
 - API integration
+- SEO Optimization
 
 So if you're in situations like following, drop me an email.
 - Have a business idea, but not too sure where to start, how to design or development?
@@ -26,8 +27,13 @@ This is a mobile app that allows users to browse hotels and restaurants, and do 
 This app manages properties and tenants. Bootstraped the project and developed the 1st phase of its backend API.
 - [[thespoke](http://thespoke.co)] **Backend API** (`Django`/`Django Rest`)
 This app allows searching for, and bookmarking movie and restaurant information. Developed its backend API and integration.
-- [[hiddenapp](http://hiddenapp.com)]
-Added Braintree integration for this existing project.
+- [[Snapshop](https://snapshop.com)] **Backend API** (`Django`/`Django Rest`)
+E-commerce Mobile app for fashion.
+
+I also have a few personal projects, some of them:
+- [[Oduoc](https://oduoc.com)] Content site for fashion-related topics
+- [[Choidii](https://choidii.com)] Travel plans
+
 
 
 ## Contact
