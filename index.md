@@ -21,19 +21,14 @@ So if you're in situations like following, drop me an email.
 ## Projects
 Some projects I worked on before:
 
+- [[Snapshop](https://snapshop.com)] **Backend API** (`Django`/`Django Rest`/`Stripe`/`AWS`)
+A marketsplace for fashion, allows users to order from various merchants from single application. Ecommerce site owner from shopify/magento can connect to the platform.
 - [[Getgoru](http://www.getgoru.com/)]: (`Django`/`Django Rest`)
 This is a mobile app that allows users to browse hotels and restaurants, and do booking in that single app, without having to go to different apps. Developed its backend API, integrating it with Agoda for hotel information and booking.
 - [XiberX] **Backend API** (`Django`/`Django Rest`)
 This app manages properties and tenants. Bootstraped the project and developed the 1st phase of its backend API.
 - [[thespoke](http://thespoke.co)] **Backend API** (`Django`/`Django Rest`)
 This app allows searching for, and bookmarking movie and restaurant information. Developed its backend API and integration.
-- [[Snapshop](https://snapshop.com)] **Backend API** (`Django`/`Django Rest`)
-E-commerce Mobile app for fashion.
-
-I also have a few personal projects, some of them:
-- [[Oduoc](https://oduoc.com)] Content site for fashion-related topics
-- [[Choidii](https://choidii.com)] Travel plans
-
 
 
 ## Contact
