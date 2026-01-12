@@ -7,6 +7,8 @@ author_profile: false
 
 ## Fun projects
 
-- **[tmd](https://github.com/peeomid/todos.md)** - Markdown-based todo management
-- **[thx](https://github.com/peeomid/thx)** - A CLI for things
-- **[agj](https://github.com/peeomid/agj)** - Monitor Codex/Claude iTerm2 sessions
+{% if site.projects %}
+{% for project in site.projects %}
+- **[{{ project.title }}]({{ project.url | relative_url }})** - {{ project.excerpt | strip_html | strip_newlines }}
+{% endfor %}
+{% endif %}

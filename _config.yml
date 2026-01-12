@@ -35,7 +35,7 @@ collections:
   projects:
     title: Projects
     output: true
-    permalink: /:projects/:path/
+    permalink: /projects/:path/
 # theme: jekyll-theme-cayman
 remote_theme: "mmistakes/minimal-mistakes"
 page_name: peeomid
