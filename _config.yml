@@ -8,7 +8,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale: "en-US"
 include: ["_pages"]
 
-url                      : "https://peeomid.com"
+url                      : "https://osimify.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository: "peeomid/peeomid.github.io"
 
@@ -37,13 +37,12 @@ collections:
     output: true
     permalink: /:projects/:path/
 # theme: jekyll-theme-cayman
-# theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 page_name: peeomid
 tagline: Thoughts. Stuff.
 author:
   name: peeomid
-  url: https://peeomid.com
+  url: https://osimify.com
 description:
 - Thoughts. Stuff.
 analytics:
@@ -80,9 +79,9 @@ twitter:
 # Site Author
 author:
   name             : "Luan Nguyen"
-  bio              : "Backend Developer"
+  bio              : "Senior Software Engineer at Bowtie (digital insurance, Hong Kong)"
   github           : "peeomid"
-  linkedin         : luantn" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : luantn #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   twitter          : "peeomid"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"

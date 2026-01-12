@@ -1,0 +1,4 @@
+---
+# Local-only overrides to avoid network fetches for remote_theme.
+theme: minimal-mistakes-jekyll
+remote_theme: null

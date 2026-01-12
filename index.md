@@ -1,34 +1,20 @@
 ---
-title: Luan Nguyen - Development consultant
+title: Luan Nguyen
 layout: splash
 ---
 
-## Hi there!
+## Hi, I'm Luan
+A software developer.
 
-I'm Luan, a development consultant, based in Vietnam.
+Currently working as Senior Software Engineer at Bowtie (digital insurance, Hong Kong).
 
-A few stuff that I normally work on:
-- System architect
-- Backend development (`Django`, `Django Rest`)
-- API integration
-- SEO Optimization
+What I can handle:
+- Bridge between business need and technical development
+- Backend systems and APIs
+- System design and architecture
+- Integrations and automation
+- Developer tooling and internal platforms
 
-So if you're in situations like following, drop me an email.
-- Have a business idea, but not too sure where to start, how to design or development?
-- Want to build a mobile/web application, and need to build API for that quickly (what helps the application manage information at the back)
-- Integrate your system with other systems, say getting hotel information from Agoda, or adding payment in.
-
-## Projects
-Some projects I worked on before:
-
-- [[Snapshop](https://snapshop.com)] **Backend API** (`Django`/`Django Rest`/`Stripe`/`AWS`)
-A marketsplace for fashion, allows users to order from various merchants from single application. Ecommerce site owner from shopify/magento can connect to the platform.
-- [[Getgoru](http://www.getgoru.com/)]: (`Django`/`Django Rest`)
-This is a mobile app that allows users to browse hotels and restaurants, and do booking in that single app, without having to go to different apps. Developed its backend API, integrating it with Agoda for hotel information and booking.
-- [XiberX] **Backend API** (`Django`/`Django Rest`)
-This app manages properties and tenants. Bootstraped the project and developed the 1st phase of its backend API.
-- [[thespoke](http://thespoke.co)] **Backend API** (`Django`/`Django Rest`)
-This app allows searching for, and bookmarking movie and restaurant information. Developed its backend API and integration.
-
-
-## Contact
+## Links
+- [Projects](/projects/)
+- [Blog](/blog/)
