@@ -27,4 +27,4 @@ pipx install agj
 ```
 
 ## Links
-- GitHub: https://github.com/peeomid/agj
+- [agj](https://github.com/peeomid/agj)

@@ -10,7 +10,7 @@ Use a local override so the theme is resolved from the gem instead of GitHub:
 
 ```bash
 bundle install
-bundle exec jekyll serve --config _config.yml,_config_local.yml
+bundle exec jekyll serve --config _config.yml,_config_local.yml --port 4001
 ```
 
 Local override file:
@@ -26,3 +26,5 @@ Notes:
   `bundle add webrick`
 - If `baseurl` is set for GitHub Pages and the site looks wrong locally, use:
   `bundle exec jekyll serve --config _config.yml,_config_local.yml --baseurl=""`
+- If you see stale content, clear the output first:
+  `rm -rf _site`

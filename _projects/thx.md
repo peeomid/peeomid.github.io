@@ -28,5 +28,5 @@ brew install thx
 ```
 
 ## Links
-- GitHub: https://github.com/peeomid/thx
-- Things 3: https://culturedcode.com/things/
+- [thx](https://github.com/peeomid/thx)
+- [Things 3](https://culturedcode.com/things/)

@@ -28,5 +28,5 @@ npm install -g todosmd
 ```
 
 ## Links
-- GitHub: https://github.com/peeomid/todos.md
-- npm: https://www.npmjs.com/package/todosmd
+- [tmd](https://github.com/peeomid/todos.md)
+- [npm](https://www.npmjs.com/package/todosmd)
