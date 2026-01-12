@@ -10,7 +10,7 @@ include: ["_pages"]
 
 url                      : "https://osimify.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository: "peeomid/peeomid.github.io"
+repository: "peeomid/osimify.com"
 
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"

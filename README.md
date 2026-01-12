@@ -1,6 +1,6 @@
-# peeomid.github.io
+# osimify.com
 
-Jekyll site for https://peeomid.com.
+Jekyll site for https://osimify.com
 
 ## GitHub Pages deploy
 - Deploys from branch builds on GitHub Pages.
